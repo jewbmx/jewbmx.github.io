@@ -13,4 +13,5 @@
     8. Select the "JewRepo" or "JewBackD" Repository you just installed.
     9. Install the addons you want from inside the repo.
 
+(Added the repo for TempTV but didnt link it into my repo.)
 #### Have a Nice High Day!
