@@ -14,3 +14,8 @@
     9. Install the addons you want from inside the repo.
 
 #### Have a Nice High Day!
+
+________________________________________________________________________________________________
+
+# Notes about contents...
+My Repo is jewrepo, the laniks are another dev that makes a great cleaning addon, that cleaning addon is Kcleaner and the version i have here is my own custom quick fix version of it to make it work proper on Kodi 20 with no debug log issues. (I Also made changes to my installed lanik repo addon.xml file in order to fix the annoying debug stuff it causes due to its http use when it should be https. but pretty sure i didnt share that anywhere here besides in words like these <3 lol.)
