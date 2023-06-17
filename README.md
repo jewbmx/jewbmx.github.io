@@ -1,5 +1,5 @@
 # jewbmx.github.io
-### How to make a Source for Repositories.
+### JewRepo source url.
 
 ## Instructions for adding this repo:
 
